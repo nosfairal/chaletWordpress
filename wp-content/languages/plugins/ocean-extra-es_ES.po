@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Ocean Extra - Development (trunk) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-10-13 06:20:03+0000\n"
+"PO-Revision-Date: 2021-10-21 08:54:16+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,14 @@ msgstr ""
 "X-Generator: GlotPress/3.0.0-alpha.2\n"
 "Language: es\n"
 "Project-Id-Version: Plugins - Ocean Extra - Development (trunk)\n"
+
+#: includes/panel/classes/class-install-demos.php:99
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: includes/panel/classes/class-install-demos.php:98
+msgid "Elementor"
+msgstr "Elementor"
 
 #: includes/panel/scripts.php:488
 msgid "Please check: Customize > General Options > Performance for scripts you can disable."
@@ -1696,11 +1704,11 @@ msgstr "Ejecutar el asistente de configuración"
 msgid "<strong>Welcome to OceanWP</strong> - Are you ready to create an amazing website?"
 msgstr "<strong>Bienvenido a OceanWP</strong> - ¿Estás listo para crear una web increíble?"
 
-#: includes/panel/demos.php:1212
+#: includes/panel/demos.php:1221
 msgid "Importing Form"
 msgstr "Importando formulario"
 
-#: includes/panel/demos.php:1054
+#: includes/panel/demos.php:1063
 msgid "Import Contact Form"
 msgstr "Importar formulario de contacto"
 
@@ -2034,103 +2042,103 @@ msgstr "Este script es para alternar entre acceso/registro en tu página de cuen
 msgid "WooCommerce Account Links"
 msgstr "Enlaces de cuenta de WooCommerce"
 
-#: includes/panel/demos.php:1585
+#: includes/panel/demos.php:1630
 msgid "Sample data file appears corrupt or can not be accessed."
 msgstr "El archivo de datos de ejemplo aparece corrupto o no se puede acceder a él."
 
-#: includes/panel/demos.php:1574
+#: includes/panel/demos.php:1619
 msgid "Can not retrieve wordpress-importer.php"
 msgstr "No se puede recuperar wordpress-importer.php"
 
-#: includes/panel/demos.php:1564
+#: includes/panel/demos.php:1609
 msgid "Can not retrieve class-wp-importer.php"
 msgstr "No se puede recuperar class-wp-importer.php"
 
-#: includes/panel/demos.php:1527
+#: includes/panel/demos.php:1572
 msgid "The xml import file could not be accessed. Please try again or contact the theme developer."
 msgstr "El archivo XML importado podría no ser accesible. Por favor, inténtalo otra vez o contacta con el desarrollador del tema."
 
-#: includes/panel/demos.php:1512
+#: includes/panel/demos.php:1557
 msgid "Can not retrieve sample data xml file. The server may be down at the moment please try again later. If you still have issues contact the theme developer for assistance."
 msgstr "No se puede recuperar el archivo XML de datos de ejemplo. Quizás GitHub esté caído en este momento, por favor, inténtalo después. Si sigues teniendo problemas, contacta con el desarrollador del tema para asistencia."
 
-#: includes/panel/demos.php:1205
+#: includes/panel/demos.php:1214
 msgid "Importing Widgets"
 msgstr "Importando los widgets"
 
-#: includes/panel/demos.php:1198
+#: includes/panel/demos.php:1207
 msgid "Importing Customizer Settings"
 msgstr "Importando ajustes del personalizador"
 
-#: includes/panel/demos.php:1191
+#: includes/panel/demos.php:1200
 msgid "Importing XML Data"
 msgstr "Importando datos XML"
 
-#: includes/panel/demos.php:1168
+#: includes/panel/demos.php:1177
 msgid "Plugin Successfully Activated"
 msgstr "Plugin activado correctamente"
 
-#: includes/panel/demos.php:1148
+#: includes/panel/demos.php:1157
 msgid "No plugin specified"
 msgstr "No se ha especificado ningún plugin"
 
-#: includes/panel/demos.php:1123
+#: includes/panel/demos.php:1132
 msgid "Get This Addon"
 msgstr "Obtener esta extensión"
 
-#: includes/panel/demos.php:1074
+#: includes/panel/demos.php:1083
 msgid "See the result"
 msgstr "Mirar el resultado"
 
-#: includes/panel/demos.php:1073 includes/wizard/classes/WizardAjax.php:116
+#: includes/panel/demos.php:1082 includes/wizard/classes/WizardAjax.php:116
 msgid "Demo Imported!"
 msgstr "¡Demo importada!"
 
-#: includes/panel/demos.php:1067 includes/wizard/classes/WizardAjax.php:110
+#: includes/panel/demos.php:1076 includes/wizard/classes/WizardAjax.php:110
 msgid "The import process could take some time, please be patient"
 msgstr "El proceso de importación puede tomar un tiempo, por favor, se paciente"
 
-#: includes/panel/demos.php:1062
+#: includes/panel/demos.php:1071
 msgid "Install this demo"
 msgstr "Instalar esta demo"
 
-#: includes/panel/demos.php:1047 includes/wizard/classes/WizardAjax.php:97
+#: includes/panel/demos.php:1056 includes/wizard/classes/WizardAjax.php:97
 msgid "Import Widgets"
 msgstr "Importar widgets"
 
-#: includes/panel/demos.php:1040 includes/wizard/classes/WizardAjax.php:90
+#: includes/panel/demos.php:1049 includes/wizard/classes/WizardAjax.php:90
 msgid "Import Customizer Settings"
 msgstr "Importar ajustes del personalizador"
 
-#: includes/panel/demos.php:1033 includes/wizard/classes/WizardAjax.php:83
+#: includes/panel/demos.php:1042 includes/wizard/classes/WizardAjax.php:83
 msgid "pages, posts, images, menus, etc..."
 msgstr "páginas, entradas, imágenes, menús, etc..."
 
-#: includes/panel/demos.php:1033 includes/wizard/classes/WizardAjax.php:83
+#: includes/panel/demos.php:1042 includes/wizard/classes/WizardAjax.php:83
 msgid "Import XML Data"
 msgstr "Importar datos XML"
 
-#: includes/panel/demos.php:1027 includes/wizard/classes/WizardAjax.php:77
+#: includes/panel/demos.php:1036 includes/wizard/classes/WizardAjax.php:77
 msgid "Select what you want to import:"
 msgstr "Selecciona qué quieres importar:"
 
-#: includes/panel/demos.php:1017
+#: includes/panel/demos.php:1026
 msgid "Go to the next step"
 msgstr "Ir al siguiente paso"
 
-#: includes/panel/demos.php:1007 includes/wizard/classes/WizardAjax.php:57
+#: includes/panel/demos.php:1016 includes/wizard/classes/WizardAjax.php:57
 msgid "For your site to look exactly like this demo, the plugins below need to be activated."
 msgstr "Para que tu sitio se vea exactamente como esta demo, necesitas activar el siguiente plugin."
 
-#: includes/panel/demos.php:1006 includes/wizard/classes/WizardAjax.php:56
+#: includes/panel/demos.php:1015 includes/wizard/classes/WizardAjax.php:56
 msgid "Required Plugins"
 msgstr "Plugins necesarios"
 
-#: includes/panel/demos.php:1000 includes/wizard/classes/WizardAjax.php:51
+#: includes/panel/demos.php:1009 includes/wizard/classes/WizardAjax.php:51
 msgid "Importing demo data allow you to quickly edit everything instead of creating content from scratch. It is recommended uploading sample data on a fresh WordPress install to prevent conflicts with your current content. You can use this plugin to reset your site if needed: %1$sWordpress Database Reset%2$s."
 msgstr "Realizar la importación de datos de ejemplo te permite editar todo en vez de crear contenido desde cero. Se recomienda subir los datos de ejemplo en una instalación limpia de WordPress para evitar conflictos. Puedes usar este plugin para restablecer tu sitio si es necesario: %1$sWordpress Database Reset%2$s."
 
-#: includes/panel/demos.php:994 includes/wizard/classes/WizardAjax.php:44
+#: includes/panel/demos.php:1003 includes/wizard/classes/WizardAjax.php:44
 msgid "Import the %1$s demo"
 msgstr "Importar la demo %1$s"
 
@@ -2348,12 +2356,13 @@ msgstr "Los detalles se muestran arriba. El importador ahora lo intentará otra 
 msgid "There was an error when reading this WXR file"
 msgstr "Ocurrió un error leyendo este archivo WXR"
 
-#: includes/panel/classes/class-install-demos.php:124
+#: includes/panel/classes/class-install-demos.php:159
+#: includes/panel/classes/class-install-demos.php:202
 #: includes/wizard/wizard.php:535
 msgid "Live Preview"
 msgstr "Vista previa"
 
-#: includes/panel/classes/class-install-demos.php:93
+#: includes/panel/classes/class-install-demos.php:129
 msgid "Search demos..."
 msgstr "Buscar demos..."
 
@@ -3221,20 +3230,20 @@ msgstr "Por"
 #: includes/panel/assets/class-plugin-installer.php:73
 #: includes/panel/assets/class-plugin-installer.php:152
 #: includes/panel/assets/class-plugin-installer.php:513
-#: includes/panel/demos.php:1102
+#: includes/panel/demos.php:1111
 msgid "Activate"
 msgstr "Activar"
 
 #: includes/panel/assets/class-plugin-installer.php:69
 #: includes/panel/assets/class-plugin-installer.php:148
 #: includes/panel/assets/class-plugin-installer.php:514
-#: includes/panel/demos.php:1113
+#: includes/panel/demos.php:1122
 msgid "Activated"
 msgstr "Activo"
 
 #: includes/panel/assets/class-plugin-installer.php:39
 #: includes/panel/assets/class-plugin-installer.php:512
-#: includes/panel/demos.php:1108
+#: includes/panel/demos.php:1117
 msgid "Install Now"
 msgstr "Instalar"
 
@@ -7235,7 +7244,8 @@ msgstr "JS"
 
 #: includes/menu-icons/includes/library/icon-selector/includes/loader.php:181
 #: includes/menu-icons/includes/settings.php:597
-#: includes/panel/classes/class-install-demos.php:86
+#: includes/panel/classes/class-install-demos.php:107
+#: includes/panel/classes/class-install-demos.php:119
 #: includes/panel/scripts.php:509 includes/wizard/wizard.php:503
 msgid "All"
 msgstr "Todas"
